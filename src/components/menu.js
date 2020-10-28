@@ -8,7 +8,6 @@ const Menu = () => {
         <div className="menu-wrapper">
             <h2>
             <div className= "menu"> 
-                
                 <div>Home</div>
                 <div>About</div>
                 <div>Projects</div>
