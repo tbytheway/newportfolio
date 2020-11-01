@@ -1,0 +1,23 @@
+.form-wrapper {
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: 0;
+    height: 90vh;
+    background-color: rgb(65, 73, 85);
+    opacity: 90%;
+    align-items: center;
+    
+}
+
+
+input {
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+}
